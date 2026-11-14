@@ -1,4 +1,4 @@
-# <img src="./jellobean.png" width="36" align="absmiddle" alt="Jellobean" /> UNITY OS — Jellobean Live Demo (`jellobean_demo`)
+# <img src="./jellobean.png" width="36" align="absmiddle" alt="UNITY OS" /> UNITY OS — Live Demo (`jellobean_demo`)
 
 **UNITY OS** is a sovereign, hardware-ambient operating engine built by **Eve Count** in Singapore.
 
