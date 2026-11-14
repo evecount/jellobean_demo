@@ -1,4 +1,4 @@
-# UNITY OS — Jellobean Live Demo (`jellobean_demo`)
+# 🍮 UNITY OS — Jellobean Live Demo (`jellobean_demo`)
 
 **UNITY OS** is a sovereign, hardware-ambient operating engine built by **Eve Count** in Singapore.
 
